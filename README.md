@@ -6,7 +6,7 @@ I'm a **backend developer** passionate about solving business challenges with **
 
 ## 🌟 About Me
 
-- 🛠️ **Skilled in**: Python, C#, AWS, Terraform, RabbitMQ, ActiveMQ  
+- 🛠️ **Skilled in**: Python, C#, AWS, Terraform, RabbitMQ  
 - 🚀 **Focused on**: DDD, Microservices Architecture, and CI/CD automation  
 - 🌍 **Experience**: Successfully delivered global projects, including healthcare IT systems and multi-channel product management solutions.  
 
